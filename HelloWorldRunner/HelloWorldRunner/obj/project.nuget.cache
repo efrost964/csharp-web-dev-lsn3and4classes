@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnVKFofhDP5RIjPsAUGsQ4LzftxfU7fxHzoqmG8gcXwny4ea+M7cuSZnF/lLecbZuxrfLhh8qjcrDLoSm03Rhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lumpysacks\\Desktop\\coding\\launchCode\\chap-18-excercises\\HelloWorldRunner\\HelloWorldRunner\\HelloWorldRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lumpysacks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lumpysacks\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lumpysacks\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
